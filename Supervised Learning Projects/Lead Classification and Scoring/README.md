@@ -1,5 +1,9 @@
-# Lead_Scoring
+# Lead Scoring
 Built a Logistic Regression model for an Ed-Tech firm to predict the leads that are likely to enrol themselves in any course offered by the company on their website. The model also gives a lead score to each customer in terms of the probability of them turning into a lead, which could help the company find the likelihood of each customer becoming a lead. Received model accuracy and sensitivity on the test dataset as 89% and 87% respectively.
+
+## Tech Stack
+- Language: Python
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-Kit Learn, StatsModels
 
 ## Problem Statement
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
