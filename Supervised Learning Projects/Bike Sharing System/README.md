@@ -1,6 +1,9 @@
-# Bike_Sharing_System
+# Bike Sharing System
 Created a Linear Regression model for a bike sharing company to find various attributes affecting their business and predicting the count of shared bikes based upon the attributes by performing EDA, Data Visualisation to find insights and patterns, and then Feature Engineering to prepare the data efficiently for building the model, Feature Scaling to scale the values of features to similar range and then, built the Linear Regression model. Model was built using statsmodels and evaluated on the train and test dataset both by performing Residual Analysis and finding the R-squared value. The Model R-squared score obtained for the test dataset is 80.3%.
 
+## Tech Stack
+- Language: Python
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sci-Kit Learn, StatsModels
 
 ## Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
